@@ -30,3 +30,43 @@ Whether you’re a designer, developer, or idea powerhouse, SynergyAI helps you 
 ```bash
 git clone https://github.com/aritttra/SynergyAI.git
 cd SynergyAI
+npm install
+npm run dev
+```
+---
+## Project Structure 
+SynergyAI/
+│── frontend/         # UI components & pages
+│── backend/          # API endpoints & server logic (planned)
+│── public/           # Static assets
+│── package.json      # Dependencies & scripts
+│── README.md         # This file
+
+## Road Map
+ i) Implement advanced AI teammate matching algorithm.
+
+ ii) Add chat and collaboration features.
+
+ iii) Support multiple hackathon event listings.
+
+ iv) Mobile-first PWA support.
+
+## Contributing
+Contributions are welcome!
+If you’d like to improve SynergyAI:
+
+1. Fork this repository
+
+2. Create a feature branch (git checkout -b feature-name)
+
+3. Commit changes (git commit -m 'Add new feature')
+
+4. Push to branch (git push origin feature-name)
+
+5. Open a Pull Request
+
+
+
+
+
+
