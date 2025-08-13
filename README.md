@@ -34,7 +34,7 @@ npm install
 npm run dev
 ```
 ---
-## Project Structure 
+## 🛠️ Project Structure 
 SynergyAI/
 │── frontend/         # UI components & pages
 │── backend/          # API endpoints & server logic (planned)
@@ -42,7 +42,7 @@ SynergyAI/
 │── package.json      # Dependencies & scripts
 │── README.md         # This file
 
-## Road Map
+## 🎯 Road Map
  i) Implement advanced AI teammate matching algorithm.
 
  ii) Add chat and collaboration features.
@@ -51,7 +51,7 @@ SynergyAI/
 
  iv) Mobile-first PWA support.
 
-## Contributing
+## ✍ Contributing
 Contributions are welcome!
 If you’d like to improve SynergyAI:
 
