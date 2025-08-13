@@ -16,7 +16,7 @@ Whether you’re a designer, developer, or idea powerhouse, SynergyAI helps you 
 ---
 
 ## 🛠️ Tech Stack  
-- **Frontend:** Next.js / React + Tailwind CSS  
+- **Frontend:** React + Tailwind CSS  
 - **Backend:** Node.js + Express (planned integration with AI APIs)  
 - **Database:** MongoDB / Firebase (depending on deployment)  
 - **Deployment:** Vercel  
